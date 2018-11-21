@@ -1,0 +1,4 @@
+pojemność dysku: 64GB
+pamięć RAM: 4GB
+procesor: N4000,  2.60 GHz
+system: 64-bitowy
