@@ -11,7 +11,7 @@ Około godziny 12.30 z nieznanych przyczyn _samochód osobowy wjechał w nieruch
 
 ### Komentarze wśród czytelników bywaja różne:
 - "pomyliła gaz z hamulcem"
-- "zimno jest- zaparkowała bliżej wejścia
+- "zimno jest- zaparkowała bliżej wejścia"
 - "kobiety niby lepszymi kierowcami niż mężczyźni"
 - "~~blondynka~~"
 
