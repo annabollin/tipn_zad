@@ -4,7 +4,7 @@ Około godziny 12.30 z nieznanych przyczyn _samochód osobowy wjechał w nieruch
 
 ## Policja prowadzi dochodzenie
 
-** Powodem ** mogły być:
+**Powodem** mogły być:
 1. prędkość
 2. awaria samochodu
 3. poślizg
@@ -18,6 +18,6 @@ Około godziny 12.30 z nieznanych przyczyn _samochód osobowy wjechał w nieruch
  Link do strony
  <https://www.trojmiasto.pl/wiadomosci/Samochod-wjechal-w-biuro-w-Gdyni-n129693.html>
 
-|autor   |Arnold Smyczewski |
+|autor|Arnold Smyczewski|
 |---||---|
-|data dodania|28 listopad 2018r
+|data dodania|28 listopad 2018r|
