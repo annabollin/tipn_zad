@@ -19,5 +19,5 @@ Około godziny 12.30 z nieznanych przyczyn _samochód osobowy wjechał w nieruch
  <https://www.trojmiasto.pl/wiadomosci/Samochod-wjechal-w-biuro-w-Gdyni-n129693.html>
 
 |autor|Arnold Smyczewski|
-|---||---|
+|---|---|
 |data dodania|28 listopad 2018r|
